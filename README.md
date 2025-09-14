@@ -19,7 +19,5 @@ Technologies Used
 
 
 
-## How to Run Locally  
-1. Clone this repository:  
-   ```bash:   https://shreyk-03.github.io/tic-tac-toe/
+
 
